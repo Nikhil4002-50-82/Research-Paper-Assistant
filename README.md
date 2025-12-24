@@ -9,7 +9,7 @@ Research Paper Assistant is an AI-powered tool that allows users to upload a res
 - Retrieve answers strictly based on the content of the document.
 - Supports both web and mobile interfaces.
 
-## Technology Stack
+## Tech Stack
 
 ### Backend
 - **FastAPI**: Serves as the backend API for handling PDF uploads, querying the document, and returning AI-generated answers.
