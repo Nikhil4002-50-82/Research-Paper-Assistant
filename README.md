@@ -20,7 +20,7 @@ Research Paper Assistant is an AI-powered tool that allows users to upload a res
 
 ### Web Frontend
 - **Next.js**
-- ![Click here to watch the demo](https://github.com/Nikhil4002-50-82/Research-Paper-Assistant/tree/main/assets/web1.mp4)
+- (assets/web.jpeg)
 
 ### Mobile App
 - **React Native with Expo**
