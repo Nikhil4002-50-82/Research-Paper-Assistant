@@ -19,7 +19,7 @@ Research Paper Assistant is an AI-powered tool that allows users to upload a res
 - **Google Gemini API**: Language model used to generate responses.
 
 ### Web Frontend
-- [**Next.js**](assets/web.jpeg)
+- **Next.js**
 
 ### Mobile App
 - **React Native with Expo**
