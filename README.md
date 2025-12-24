@@ -23,7 +23,6 @@ Research Paper Assistant is an AI-powered tool that allows users to upload a res
 
 ### Mobile App
 - **React Native with Expo**
-- 
 
 ## Architecture
 
